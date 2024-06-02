@@ -1,0 +1,101 @@
+<section id="main"  data-ic_js='pagePublicEventMain'>
+    <!--<div class="b-questionnaire flex end">
+        <div>
+            <p class="title">Enquête utilisation</p>
+            <p>Vous êtes plus de 1500 à avoir répondu à cette enquête. Merci pour votre participation ! Les données sont
+                en cours d'analyse.</p>
+        </div>
+    </div>-->
+    <!--<a href="https://toulousepsychology.eu.qualtrics.com/jfe/form/SV_72rSSgdDLddW8iG" target="_blank"
+       class="b-questionnaire flex">
+        <div>
+            <span class="material-icons">contact_support</span>
+            <p class="title">Enquête utilisation</p>
+            <p>Cliquez pour participer à l'amélioration de BadNet</p>
+        </div>
+        <div>
+            <span class="material-icons">schedule</span>
+            <span class="time">5'</span>
+        </div>
+    </a>-->
+    <div class="page-event">
+        <div class="wrapper">
+            <div class="flex top">
+                <div>
+                    <h1>
+                        CREGYBADSHOW 2024</h1>
+                    <div class="flex b-infos">
+                        <div class="datas">
+                            <p class="date"><span class="material-icons">date_range</span>
+                                <a href="#" class="ic-click" id="date-cal" data-datedata="{&quot;name&quot;:&quot;Badminton - CREGYBADSHOW 2024&quot;,&quot;startDate&quot;:&quot;2024-06-08&quot;,&quot;endDate&quot;:&quot;2024-06-09&quot;,&quot;location&quot;:&quot;Cr\u00e9gy-L\u00e8s-Meaux&quot;,&quot;startTime&quot;:&quot;08:00&quot;,&quot;endTime&quot;:&quot;17:00&quot;}">Les 8 et 9 juin 2024</a>
+                            </p>
+
+                            <p><span class="material-icons">link</span> Site web non renseigné</p>
+
+                            <p class="location"><span class="material-icons">place</span><a
+                                    href="https://www.google.fr/maps/search/Crégy-Lès-Meaux" target="_blank">Crégy-Lès-Meaux</a></p>
+
+                            <p><span class="material-icons">mail_outline</span> <a href="mailto:contact@cregybad.org">contact@cregybad.org</a>
+                            </p>
+
+                            <p><span class="material-icons">verified_user</span>Ja non renseigné</p>
+
+
+                            <p><span class="material-icons">source</span>N° Poona 23.LIFB.77/TI.F./022</p>
+
+
+                            <p><span class="material-icons">co_present</span>Crégybad</p>
+
+                            <p><span class="material-icons">group</span> Nombre de joueurs :
+                                23/200</p>
+
+                        </div>
+                        <div class="limit">
+                            <p>Ouverture des inscriptions<span>01/02/2024</span></p>
+                            <p>Fermeture des inscriptions<span>09/05/2024</span></p>
+                        </div>
+                    </div>
+
+
+                </div>
+                <figure class="">
+                    <a href="/Img/poster/22877_20240113154907_32061.jpg" target="_blank">
+                        <img src="/Img/poster/22877_20240113154907_32061.jpg"
+                             alt="">
+                    </a>
+
+                </figure>
+            </div>
+
+
+            <nav>
+                <span class="nav-mobile"></span>
+                <ul>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/informations?eventid=22877&quot;}" data-ic_a="852482"
+                              class="ic-click link ">Présentation</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/inscriptions?eventid=22877&quot;}" data-ic_a="852483"
+                              class="ic-click link actif">Inscriptions</span></li>
+
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/convocations?eventid=22877&quot;}" data-ic_a="852488"
+                              class="ic-click link ">Convocations</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/echeanciers?eventid=22877&quot;}" data-ic_a="852490"
+                              class="ic-click link ">Echéanciers</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/deroulement?eventid=22877&quot;}" data-ic_a="852491"
+                              class="ic-click link ">Déroulement</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/tableaux?eventid=22877&quot;}" data-ic_a="852489"
+                              class="ic-click link ">Tableaux et résultats</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/resultats?eventid=22877&quot;}" data-ic_a="852493"
+                              class="ic-click link ">Palmarès</span></li>
+
+                </ul>
+            </nav>
+
+
+            <div id="content">
+                <div data-mustache="1" data-ic_a="852483"></div>
+            </div>
+
+
+        </div>
+    </div>
+</section>

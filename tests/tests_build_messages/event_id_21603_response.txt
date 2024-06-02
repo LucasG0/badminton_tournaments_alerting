@@ -1,0 +1,111 @@
+<section id="main"  data-ic_js='pagePublicEventMain'>
+    <!--<div class="b-questionnaire flex end">
+        <div>
+            <p class="title">Enquête utilisation</p>
+            <p>Vous êtes plus de 1500 à avoir répondu à cette enquête. Merci pour votre participation ! Les données sont
+                en cours d'analyse.</p>
+        </div>
+    </div>-->
+    <!--<a href="https://toulousepsychology.eu.qualtrics.com/jfe/form/SV_72rSSgdDLddW8iG" target="_blank"
+       class="b-questionnaire flex">
+        <div>
+            <span class="material-icons">contact_support</span>
+            <p class="title">Enquête utilisation</p>
+            <p>Cliquez pour participer à l'amélioration de BadNet</p>
+        </div>
+        <div>
+            <span class="material-icons">schedule</span>
+            <span class="time">5'</span>
+        </div>
+    </a>-->
+    <div class="page-event">
+        <div class="wrapper">
+            <div class="flex top">
+                <div>
+                    <h1>
+                        Les Championnats de France 2024</h1>
+                    <div class="flex b-infos">
+                        <div class="datas">
+                            <p class="date"><span class="material-icons">date_range</span>
+                                <a href="#" class="ic-click" id="date-cal" data-datedata="{&quot;name&quot;:&quot;Badminton - Les Championnats de France 2024&quot;,&quot;startDate&quot;:&quot;2024-02-02&quot;,&quot;endDate&quot;:&quot;2024-02-04&quot;,&quot;location&quot;:&quot;Fos sur Mer&quot;,&quot;startTime&quot;:&quot;08:00&quot;,&quot;endTime&quot;:&quot;17:00&quot;}">Du 2 au 4 février 2024</a>
+                            </p>
+
+                            <p><span class="material-icons">link</span> Site web non renseigné</p>
+
+                            <p class="location"><span class="material-icons">place</span><a
+                                    href="https://www.google.fr/maps/search/Fos sur Mer" target="_blank">Fos sur Mer</a></p>
+
+                            <p><span class="material-icons">mail_outline</span> <a href="mailto:sibylle.saillant@ffbad.org">sibylle.saillant@ffbad.org</a>
+                                / <a href="tel:01 49 21 08 94" data-rel="external">01 49 21 08 94</a>
+                            </p>
+
+                            <p><span class="material-icons">verified_user</span>VIOUX Maximilien</p>
+
+
+                            <p><span class="material-icons">source</span>N° Poona 23.FFBAD/CH.F./001</p>
+
+
+                            <p><span class="material-icons">co_present</span>Fédération Française de Badminton</p>
+
+                            <p><span class="material-icons">group</span> Nombre de joueurs :
+                                94/150</p>
+
+                        </div>
+                        <div class="limit">
+                            <p>Ouverture des inscriptions<span>14/11/2023</span></p>
+                            <p>Fermeture des inscriptions<span>13/12/2023</span></p>
+                            <p class="alert">Inscriptions fermées</p>
+                        </div>
+                    </div>
+
+
+                </div>
+                <figure class="default">
+                    <a href="/Img/poster/affiche_default.png" target="_blank">
+                        <img src="/Img/poster/affiche_default.png"
+                             alt="">
+                    </a>
+
+                </figure>
+            </div>
+
+            <div class="last_minutes">
+                <span class="material-icons alert">info</span>
+                Le règlement des Championnats de France a été modifié par le Conseil Exécutif des 10 et 11 juin 2023.
+A compter de cette saison, les tableaux des 5 disciplines sont réduits à 12 places. Les 4 premières places sont attribuées dans l'ordre du classement BWF. Les places suivantes sont attribuées dans l'ordre du CPPH.
+Pour le tirage au sort, les 4 meilleurs joueurs/paires au classement BWF à la date indiquée dans l'annexe Dispositions saison sont désignées têtes de série.
+
+Les listes d'attente par tableau seront limitées à 20 joueurs, joueuses ou paires sur la liste des qualifiés qui sera diffusée. Si des personnes supplémentaires sont inscrites, elles apparaîtont uniquement dans BadNet.
+            </div>
+
+            <nav>
+                <span class="nav-mobile"></span>
+                <ul>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/informations?eventid=21603&quot;}" data-ic_a="852482"
+                              class="ic-click link ">Présentation</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/inscriptions?eventid=21603&quot;}" data-ic_a="852483"
+                              class="ic-click link ">Inscriptions</span></li>
+
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/convocations?eventid=21603&quot;}" data-ic_a="852488"
+                              class="ic-click link ">Convocations</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/echeanciers?eventid=21603&quot;}" data-ic_a="852490"
+                              class="ic-click link ">Echéanciers</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/deroulement?eventid=21603&quot;}" data-ic_a="852491"
+                              class="ic-click link ">Déroulement</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/tableaux?eventid=21603&quot;}" data-ic_a="852489"
+                              class="ic-click link actif">Tableaux et résultats</span></li>
+                    <li><span data-ic_t="content" data-ic_url="{&quot;url&quot;:&quot;tournoi\/public\/resultats?eventid=21603&quot;}" data-ic_a="852493"
+                              class="ic-click link ">Palmarès</span></li>
+
+                </ul>
+            </nav>
+
+
+            <div id="content">
+                <div data-mustache="1" data-ic_a="852489"></div>
+            </div>
+
+
+        </div>
+    </div>
+</section>

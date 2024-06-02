@@ -1,0 +1,60 @@
+<div  data-type_event='70' data-type_indiv='1' data-type_team='1' data-type_promobad='1' data-ligue='12' data-departement='-1' data-location='' data-city='' data-rayon='25' data-date='' data-n='0' data-r='0' data-d='0' data-p='0' data-single='0' data-double='0' data-mixte='0' data-passed='0' data-saison='0' data-jeunes='0' data-seniors='1' data-veterans='1' data-parabad='0' data-open='0' data-ic_js='searchResult' data-refresh_map="1">
+
+    <div class="flex b-row  promoted">
+        <a class="row" href="/tournoi/public?eventid=" id="event-21603">
+            <div class="cell">
+                <div class="name">
+                    <img src="/Template/Img/site/logo-ffbad.svg" alt="FFBAD"/>
+                    Les Championnats de France 2024
+
+                </div>
+                <div class="location">Fos sur Mer <span></span></div>
+                <div class="date">Du 2 au 4 février</div>
+            </div>
+            <div class="cell">
+                <div class="cat-clt">
+                    <div class="cat">Seniors </div>
+                    <div class="clt">N</div>
+                </div>
+                <div class="last">
+                    <div class="limit " title="Inscr. av. le 13/12/2023">
+                        <span class="material-icons">schedule</span>
+                        Inscriptions closes
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <p class="flex cpt">Votre recherche <span>4 résultats</span></p>
+
+    <div class="flex b-row  ">
+        <a class="row" href="/tournoi/public?eventid=22877" id="event-22877">
+            <div class="cell">
+                <div class="name">
+                    <img src="/Template/Img/site/logo-ffbad.svg" alt="FFBAD"/>
+                    CREGYBADSHOW 2024
+
+                </div>
+                <div class="location">Crégy-Lès-Meaux <span></span></div>
+                <div class="date">Les 8 et 9 juin</div>
+            </div>
+            <div class="cell">
+                <div class="cat-clt">
+                    <div class="cat">Seniors </div>
+                    <div class="clt">R, D, P, NC</div>
+                </div>
+                <div class="last">
+                    <div class="limit " title="Inscr. av. le 09/05/2024">
+                        <span class="material-icons">schedule</span>
+                        Inscriptions ouvertes dans 1 jour
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+</div>
+<div class="b-markers hidden" data-markers="[{&quot;id&quot;:23176,&quot;name&quot;:&quot;&lt;img src=\&quot;\/Template\/Img\/site\/logo-ffbad.svg\&quot; alt=\&quot;FFBAD\&quot;\/&gt;Le BigBig Tournoi - 2\u00e8me \u00c9co-Tournoi de doubles de BBG13&quot;,&quot;title&quot;:&quot;Le BigBig Tournoi - 2\u00e8me \u00c9co-Tournoi de doubles de BBG13&quot;,&quot;catages&quot;:&quot;Seniors &quot;,&quot;promoted&quot;:false,&quot;clt&quot;:&quot;R, D, P, NC&quot;,&quot;url&quot;:&quot;https:\/\/badnet.fr\/tournoi\/public?eventid=23176&quot;,&quot;deadline&quot;:&quot;&lt;div class=\&quot;limit \&quot; title=\&quot;Inscr. av. le 04\/04\/2024\&quot;&gt;&lt;span class=\&quot;material-icons\&quot; &gt; schedule&lt;\/span &gt; Inscriptions ouvertes dans 3 jours&lt;\/div&gt;&quot;,&quot;place&quot;:&quot;Centre Sportif Charcot 80 rue du Chevaleret 75013&quot;,&quot;participants&quot;:&quot;&quot;,&quot;date&quot;:&quot;Les 20 et 21 avril 2024&quot;,&quot;lat&quot;:48.8234923,&quot;lng&quot;:2.3578623,&quot;distance&quot;:&quot;&quot;},{&quot;id&quot;:23142,&quot;name&quot;:&quot;&lt;img src=\&quot;\/Template\/Img\/site\/logo-ffbad.svg\&quot; alt=\&quot;FFBAD\&quot;\/&gt;Championnat D\u00e9partemental 92 - S\u00e9niors&quot;,&quot;title&quot;:&quot;Championnat D\u00e9partemental 92 - S\u00e9niors&quot;,&quot;catages&quot;:&quot;Seniors &quot;,&quot;promoted&quot;:false,&quot;clt&quot;:&quot;N, R, D, P, NC&quot;,&quot;url&quot;:&quot;https:\/\/badnet.fr\/tournoi\/public?eventid=23142&quot;,&quot;deadline&quot;:&quot;&lt;div class=\&quot;limit \&quot; title=\&quot;Inscr. av. le 28\/03\/2024\&quot;&gt;&lt;span class=\&quot;material-icons\&quot; &gt; schedule&lt;\/span &gt; Inscriptions ouvertes dans 3 jours&lt;\/div&gt;&quot;,&quot;place&quot;:&quot;En cours&quot;,&quot;participants&quot;:&quot;&quot;,&quot;date&quot;:&quot;Les 27 et 28 avril 2024&quot;,&quot;lat&quot;:48.8704212,&quot;lng&quot;:2.2016953,&quot;distance&quot;:&quot;&quot;},{&quot;id&quot;:22877,&quot;name&quot;:&quot;&lt;img src=\&quot;\/Template\/Img\/site\/logo-ffbad.svg\&quot; alt=\&quot;FFBAD\&quot;\/&gt;CREGYBADSHOW 2024&quot;,&quot;title&quot;:&quot;CREGYBADSHOW 2024&quot;,&quot;catages&quot;:&quot;Seniors &quot;,&quot;promoted&quot;:false,&quot;clt&quot;:&quot;R, D, P, NC&quot;,&quot;url&quot;:&quot;https:\/\/badnet.fr\/tournoi\/public?eventid=22877&quot;,&quot;deadline&quot;:&quot;&lt;div class=\&quot;limit \&quot; title=\&quot;Inscr. av. le 09\/05\/2024\&quot;&gt;&lt;span class=\&quot;material-icons\&quot; &gt; schedule&lt;\/span &gt; Inscriptions ouvertes dans 1 jour&lt;\/div&gt;&quot;,&quot;place&quot;:&quot;Cr\u00e9gy-L\u00e8s-Meaux&quot;,&quot;participants&quot;:&quot;&quot;,&quot;date&quot;:&quot;Les 8 et 9 juin 2024&quot;,&quot;lat&quot;:48.9451203,&quot;lng&quot;:2.8768777,&quot;distance&quot;:&quot;&quot;},{&quot;id&quot;:22923,&quot;name&quot;:&quot;&lt;img src=\&quot;\/Template\/Img\/site\/logo-ffbad.svg\&quot; alt=\&quot;FFBAD\&quot;\/&gt;INTO THE BAD 5 (2024) - ECOBAD&quot;,&quot;title&quot;:&quot;INTO THE BAD 5 (2024) - ECOBAD&quot;,&quot;catages&quot;:&quot;Seniors &quot;,&quot;promoted&quot;:false,&quot;clt&quot;:&quot;N, R, D, P, NC&quot;,&quot;url&quot;:&quot;https:\/\/badnet.fr\/tournoi\/public?eventid=22923&quot;,&quot;deadline&quot;:&quot;&lt;div class=\&quot;limit \&quot; title=\&quot;Inscr. av. le 16\/05\/2024\&quot;&gt;&lt;span class=\&quot;material-icons\&quot; &gt; schedule&lt;\/span &gt; Inscriptions ouvertes dans 1 jour&lt;\/div&gt;&quot;,&quot;place&quot;:&quot;Paris&quot;,&quot;participants&quot;:&quot;&quot;,&quot;date&quot;:&quot;Les 15 et 16 juin 2024&quot;,&quot;lat&quot;:48.8894561,&quot;lng&quot;:2.362987,&quot;distance&quot;:&quot;&quot;}]"></div>
+
+
