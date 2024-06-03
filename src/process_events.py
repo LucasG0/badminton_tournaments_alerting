@@ -47,7 +47,7 @@ def parse_date_sub_opening(parsed_html: BeautifulSoup) -> date:
 
 
 # TODO To avoid calling all these API events everyday, we could store the sub opening date,
-#  but this might lead to bug if sub opening date changed meanwhile.
+#  but this might lead to bugs if sub opening date changed meanwhile.
 #  To make sure sub opening date did not change, we could compare stored sub opening date with "Ouverture dans X days"
 #  that we got in the list_events endpoint (that we call only once).
 def parse_date_sub_opening_and_formats(event_id: int) -> Tuple[date, str]:
@@ -162,7 +162,7 @@ def get_all_pages_event_rows() -> List[Tag]:
 
     # TODO Note that as a page contains 10 events, if number of tournaments is a multiple of 10,
     #  we will probably perform an invalid request by requesting an invalid page. Downside is that we will miss some events
-    #  if a day the endpoint returns a more or less than 10 events.
+    #  if one day the endpoint returns more or less than 10 events.
     page = 0
     event_rows: List[Tag] = []
     page_events_rows: List[Tag] = []
